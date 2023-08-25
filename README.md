@@ -40,9 +40,14 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 
 ### Frequently Used Language
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KsW96&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
-  
+
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/KsW96/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=KsW96" />
+    </a>
+</div>
+
+
   <br/>
 
 </div>
