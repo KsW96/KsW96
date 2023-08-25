@@ -1,6 +1,6 @@
 <div align = "right">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KsW96%20HomeTown&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=KsW96%20HomeTown&fontSize=90)
 
 </div>
 <div id = "header" align = "center">
