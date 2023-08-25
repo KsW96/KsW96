@@ -9,7 +9,7 @@
  ###  👀 I’m interested in SI
  ### 🌱 I’m currently learning Spring Framework
  ### 📫 How to reach me "ghkfzha1@gmail.com"
-
+ ### 📚 My Diary "[Notion](https://mercurial-waterlily-2ba.notion.site/ac8beaf77d8c4c94bb276f6a9ef8f596?v=dcc7fb2899a9480bafcc18b7bf677f47&pvs=4) "
 
 </div>
 <div id = "body" align="Center">
