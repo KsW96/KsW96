@@ -41,6 +41,13 @@
 
 ### Frequently Used Language
 
+<div>
+    <a href="https://github.com/KsW96/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsW96&langs_count=8" />
+    </a>
+</div>
+
+### History
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/KsW96/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=KsW96" />
